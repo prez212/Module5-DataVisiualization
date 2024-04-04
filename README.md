@@ -6,7 +6,7 @@ Clone "Pymaceuticals" to you pc
 Open in VsStudio or Jupyter notebook. Open "pymaceuticals_starter.p\ipynb".
 
 # Resources:
-Please note this project was done as a group of "Rob Molenda, Munneb Saman, and I. 
+Please note this project was done as a group of Rob Molenda, Munneb Samad, Sultan Raheem and I. 
 Using loc function for specific data values
 https://stackoverflow.com/questions/73257386/pandas-groupby-column-that-has-specific-value
 Plotting the plyplot bar chart and line chart. Using isin() functions to drop duplicates within the DataFrame
