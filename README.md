@@ -3,7 +3,7 @@
 A cancer research study of 249 mice over 45 days. The tumor development in the mice was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens. The assignment is the analysis of that data using Matplotlib Visualizations.
 # To Run:
 Clone "Pymaceuticals" to you pc
-Open in VsStudio or Jupyter notebook. Open "pymaceuticals_starter.p\ipynb".
+Open in VsStudio or Jupyter notebook. Open "pymaceuticals_starter.ipynb".
 
 # Resources:
 Please note this project was done as a group of Rob Molenda, Munneb Samad, Sultan Raheem and I. 
